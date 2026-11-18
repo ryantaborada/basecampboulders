@@ -2,6 +2,7 @@
 /* CSS Document */
 
 @import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Familjen+Grotesk:ital,wght@0,400..700;1,400..700&display=swap');
 
 .clava-wrapper {
 	background-color: #DAD7CD;
@@ -17,11 +18,12 @@
 }
 
 .text-primary {
-	color: #6C36E0;
+	font-family: Arimo, Arial, sans-serif !important;
+	color: #718E78;
 }
 
 button.text-primary-800 {
-	color: #6C36E0;
+	color: #718E78;
 }
 
 .bg-accent.pb-2.px-2, .bg-accent {
