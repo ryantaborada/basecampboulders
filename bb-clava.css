@@ -49,6 +49,10 @@ button.text-primary-800 {
 }
 }
 
+	div.cursor-pointer.flex.gap-2.items-center.justify-between.my-4.transition.hover\:text-primary:hover {
+  color: #718E78 !important;
+}
+
 .clava-btn {
 	background-color: #718E78 !important;
 }
