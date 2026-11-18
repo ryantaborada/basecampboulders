@@ -36,7 +36,7 @@ button.text-primary-800 {
 }
 
 .bg-primary-100 {
-   background-color: #6C36E0;
+   background-color: #718E78;
 }
 
 .clava-btn {
@@ -44,7 +44,7 @@ button.text-primary-800 {
 }
 
 .clava-btn:hover {
-	background-color: #6C36E0 !important;
+	background-color: #DAD7CD !important;
 	border-color: #718E78 !important;
 	color: #718E78 !important;
 }
