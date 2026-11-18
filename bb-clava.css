@@ -23,7 +23,8 @@
 }
 
 button.text-primary-800 {
-	color: #718E78;
+	font-family: Arimo, Arial, sans-serif !important;
+	color: #DAD7CD;
 }
 
 .bg-accent.pb-2.px-2, .bg-accent {
