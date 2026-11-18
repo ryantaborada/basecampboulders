@@ -62,3 +62,15 @@ button.text-primary-800 {
 	border-color: #718E78 !important;
 	color: #718E78 !important;
 }
+
+/* Remove outer padding inside each widget */
+.clava-wrapper main:has(.widget-mode) {
+ padding-top: 0 !important;
+ padding-bottom: 0 !important;
+}
+ 
+/* Remove the membership list's extra margins */
+.widget-mode .flex.flex-wrap.items-start.mb-16.mt-4 {
+ margin-top: 0 !important;
+ margin-bottom: 0 !important;
+}
