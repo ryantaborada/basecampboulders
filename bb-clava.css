@@ -38,6 +38,8 @@ button.text-primary-800 {
 
 .bg-primary-100 {
    background-color: #718E78;
+	font-family: Arimo, Arial, sans-serif !important;
+	color: #DAD7CD;
 }
 
 .clava-btn {
