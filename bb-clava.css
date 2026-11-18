@@ -43,6 +43,10 @@ button.text-primary-800 {
 	color: #DAD7CD;
 }
 
+.text-primary-100 {
+	color:#ffffff;
+}
+
 .clava-btn {
 	background-color: #718E78 !important;
 }
