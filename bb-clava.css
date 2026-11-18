@@ -44,10 +44,9 @@ button.text-primary-800 {
 	.text-primary {
 	color:#ffffff;
 }
-}
-
-div.cursor-pointer.flex.gap-2.items-center.justify-between.my-4.transition.hover\:text-primary:hover {
+	div.cursor-pointer.flex.gap-2.items-center.justify-between.my-4.transition.hover\:text-primary:hover {
   color: #ffffff !important;
+}
 }
 
 .clava-btn {
