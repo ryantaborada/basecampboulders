@@ -63,6 +63,10 @@ button.text-primary-800 {
 	color: #718E78 !important;
 }
 
+.bg-white {
+	--tw-bg-opacity: 0 !important;
+}
+
 /* Remove outer padding inside each widget */
 .clava-wrapper main:has(.widget-mode) {
  padding-top: 0 !important;
